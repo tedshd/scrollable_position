@@ -2,6 +2,8 @@
 
 Set &amp; get scrollable position
 
+Use localstorage set position & get it
+
 ```JavaScript
 new scrollablePosition(<option>);
 ```

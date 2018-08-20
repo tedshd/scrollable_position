@@ -1,8 +1,8 @@
 # scrollable_position
 
-Set &amp; get scrollable position
+Set & get scrollable position
 
-Use localstorage set position & get it
+Use `localStorage` set position & get it
 
 ```JavaScript
 new scrollablePosition(<option>);

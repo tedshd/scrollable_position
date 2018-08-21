@@ -20,6 +20,11 @@
             return;
         }
 
+        if (direction !== 'horizontal' && direction !== 'vertical') {
+            console.error('scrollablePosition: direction error');
+            return;
+        }
+
         function setPosition () {
             var val;
 
